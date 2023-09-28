@@ -1,5 +1,4 @@
 ### Olá! Eu sou Gabriel Lopes 👋
-Desenvolvedor Front-end com experiência em Angular e Node.js
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-kraken002/)
 
